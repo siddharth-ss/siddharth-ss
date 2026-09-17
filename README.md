@@ -65,7 +65,7 @@ A Python-based toolkit designed to help developers work with and improve their G
 
 **Current release:** `v0.1.0`
 
-➡️ **[View github-profile-toolkit](./github-profile-toolkit)**
+➡️ **[View github-profile-toolkit](https://github.com/siddharth-ss/github-profile-toolkit)**
 
 ---
 
