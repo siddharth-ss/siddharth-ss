@@ -1,159 +1,180 @@
-# 👋 Hey, I'm Siddharth S S
+<div align="center">
 
-### Developer • Builder • Problem Solver
+Siddharth S S
 
-I build practical software, developer tools, automation systems, and web applications — with a focus on turning ideas into **clean, useful, and maintainable projects**.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=1000&color=EF4444&center=true&vCenter=true&width=720&height=45&lines=Hi+there!+I'm+Siddharth+S+S+%F0%9F%91%8B;Python+Developer+%7C+Web+Developer;Building+useful+software+and+developer+tools;Learning%2C+building%2C+and+shipping+with+purpose+%E2%9A%A1" alt="Typing SVG" />
 
-I'm interested in exploring new technologies, building real-world applications, and continuously improving the way I design and develop software.
+<br>
 
----
+<a href="https://github.com/siddharth-ss">
+  <img src="https://img.shields.io/badge/GitHub-siddharth--ss-111111?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+</a>
+<a href="mailto:YOUR_EMAIL@example.com">
+  <img src="https://img.shields.io/badge/Email-Contact-EF4444?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+</a>
 
-## 🚀 What I'm Building
+<br><br>
 
-* 🐍 **Python applications & developer tools**
-* 🤖 **Discord bots & automation**
-* 🌐 **Web applications and backend systems**
-* ⚙️ **Automation & API integrations**
-* 🧪 **Testing and reliable software**
-* 🛠️ **Tools and applications built around real use cases**
+<img src="https://komarev.com/ghpvc/?username=siddharth-ss&label=PROFILE%20VIEWS&color=EF4444&style=for-the-badge" alt="Profile Views">
 
----
+</div>
 
-## 🧰 Tech Stack
+👨‍💻 About Me
 
-### Languages
+I'm Siddharth S S, a developer interested in building practical software, web applications, automation tools, and developer-focused projects.
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
+I enjoy taking an idea from concept → implementation → testing → deployment, while continuously improving my understanding of software development and engineering practices.
 
-### Backend & Database
+🐍 Focused on Python development
 
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge\&logo=flask\&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge\&logo=mongodb\&logoColor=white)
+🌐 Interested in web development and backend systems
 
-### Development & Infrastructure
+🛠️ Building developer tools and practical applications
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge\&logo=githubactions\&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
+🗄️ Working with MySQL and MongoDB
 
-### Platforms & Tools
+🧪 Interested in testing, automation, and reliable software
 
-![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge\&logo=discord\&logoColor=white)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge\&logo=render\&logoColor=black)
+📚 Continuously learning and improving my development skills
 
----
+🚀 Featured Project
 
-## ⭐ Featured Project
+<div align="center">
 
-### 🧰 GitHub Profile Toolkit
+github-profile-toolkit
 
-A Python-based toolkit designed to help developers work with and improve their GitHub profiles through practical tooling and automation.
+A Python developer toolkit for creating, validating, and maintaining professional GitHub profiles and profile README files.
 
-**Project highlights:**
+<br>
 
-* 🐍 Python package
-* 🧪 Automated test suite
-* ⚙️ GitHub Actions CI
-* 📦 Package build verification
-* 📝 Project documentation
-* 🏷️ Versioned releases
-* 📜 MIT licensed
+<a href="https://github.com/siddharth-ss/github-profile-toolkit">
+  <img src="https://img.shields.io/badge/View%20Repository-111111?style=for-the-badge&logo=github&logoColor=white" alt="View Repository">
+</a>
+<a href="https://github.com/siddharth-ss/github-profile-toolkit/releases/tag/v0.1.0">
+  <img src="https://img.shields.io/badge/Release-v0.1.0-EF4444?style=for-the-badge&logo=github&logoColor=white" alt="Release v0.1.0">
+</a>
 
-**Current release:** `v0.1.0`
+</div>
 
-➡️ **[View github-profile-toolkit](https://github.com/siddharth-ss/github-profile-toolkit)**
+Highlights
 
----
+🐍 Built with Python
 
-## 📌 More Projects
+✅ Automated test suite
 
-I'm building a collection of projects across **automation, web development, developer tooling, and community-focused software**.
+🔄 GitHub Actions CI
 
-More projects will be added as they develop.
+📦 Python package structure
 
----
+🖥️ Command-line tooling
 
-## 🔭 Currently Working On
+📖 Documentation and changelog
 
-### Developer Tools
+🏷️ Versioned release workflow
 
-Exploring ways to make repetitive development tasks easier through automation and useful tooling.
+🧰 Tech Stack & Skills
 
-### Discord Development
-
-Building and experimenting with Discord bots, server automation, integrations, and related systems.
-
-### Web Applications
-
-Developing dynamic web applications with modern frontend technologies, Python backends, databases, and deployment platforms.
-
----
-
-## 🏗️ How I Build
-
-```text
-Idea
-  ↓
-Research
-  ↓
-Design
-  ↓
-Development
-  ↓
-Testing
-  ↓
-Refinement
-  ↓
-Deployment
-  ↓
-Iteration
-```
-
-I believe good software is more than just writing code.
-
-**Good design + Clean code + Testing + Documentation + Continuous improvement**
-
----
-
-## 🎯 2026 Goals
-
-* [x] Build my first Python toolkit
-* [x] Establish automated testing
-* [x] Set up CI
-* [x] Publish a versioned release
-* [x] Build a professional GitHub profile
-* [ ] Build more useful software projects
-* [ ] Expand my developer toolkit
-* [ ] Build advanced Discord systems
-* [ ] Explore new technologies
-* [ ] Improve software engineering practices
-
----
-
-## 🤝 Let's Connect
-
-I'm interested in:
-
-* Python
-* Developer tooling
-* Automation
-* Discord development
-* Web applications
-* Backend development
-* Software engineering
-
-Feel free to explore my projects and follow along as I continue building.
-
----
+💻 Programming & Web
 
 <p align="center">
-  <b>Build. Learn. Improve. Repeat.</b>
+  <img src="https://skillicons.dev/icons?i=python,php,js,html,css&theme=dark" alt="Programming and Web Technologies">
 </p>
 
+⚙️ Backend & Databases
+
 <p align="center">
-  <sub>© Siddharth S S</sub>
+  <img src="https://skillicons.dev/icons?i=flask,mysql,mongodb&theme=dark" alt="Backend and Database Technologies">
 </p>
+
+🛠️ Development & Systems
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=linux,git,github&theme=dark" alt="Development and Systems">
+</p>
+
+🎨 Creative & Media
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Adobe%20Photoshop-111111?style=for-the-badge&logo=adobephotoshop&logoColor=EF4444" alt="Adobe Photoshop">
+  <img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-111111?style=for-the-badge&logo=adobepremierepro&logoColor=EF4444" alt="Adobe Premiere Pro">
+  <img src="https://img.shields.io/badge/Adobe%20After%20Effects-111111?style=for-the-badge&logo=adobeaftereffects&logoColor=EF4444" alt="Adobe After Effects">
+  <img src="https://img.shields.io/badge/Filmora-111111?style=for-the-badge&logo=wondershare&logoColor=EF4444" alt="Filmora">
+</p>
+
+📊 GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-readme-stats-fast.vercel.app/api?username=siddharth-ss&show_icons=true&bg_color=0a0a0a&title_color=EF4444&text_color=f3f4f6&icon_color=EF4444&border_color=EF4444&border_radius=10" width="48%" alt="GitHub Stats">
+
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=siddharth-ss&layout=compact&bg_color=0a0a0a&title_color=EF4444&text_color=f3f4f6&border_color=EF4444&border_radius=10" width="38%" alt="Top Languages">
+
+<br><br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=siddharth-ss&theme=dark&hide_border=false&background=0a0a0a&ring=EF4444&fire=EF4444&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=EF4444&sideLabels=EF4444&dates=999999&border=EF4444" width="70%" alt="GitHub Streak">
+
+</div>
+
+🐍 Contribution Journey
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/siddharth-ss/siddharth-ss/output/github-contribution-grid-snake-dark.svg" width="100%" alt="GitHub Contribution Snake">
+
+</div>
+
+📌 Current Focus
+
+<table align="center">
+<tr>
+<td align="center" width="220">
+
+🐍 Python
+
+Backend development, tooling and automation
+
+</td>
+<td align="center" width="220">
+
+🌐 Web
+
+Building practical web applications and services
+
+</td>
+<td align="center" width="220">
+
+🧰 Developer Tools
+
+Creating useful tools that solve real development problems
+
+</td>
+</tr>
+</table>
+
+📈 Development Philosophy
+
+<div align="center">
+
+Build it. Test it. Improve it. Ship it.
+
+</div>
+
+I prefer learning through implementation — turning ideas into working software, testing what I build, documenting the important parts, and iterating when there is a real reason to improve something.
+
+🤝 Let's Connect
+
+<div align="center">
+
+<a href="https://github.com/siddharth-ss">
+  <img src="https://img.shields.io/badge/GitHub-Follow-111111?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+</a>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<sub>Designed and maintained by <b>Siddharth S S</b></sub>
+
+</div>
