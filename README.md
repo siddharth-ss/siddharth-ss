@@ -9,7 +9,6 @@ Siddharth S S
 <a href="https://github.com/siddharth-ss">
   <img src="https://img.shields.io/badge/GitHub-siddharth--ss-111111?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
 </a>
-
 <a href="mailto:131605387+siddharth-ss@users.noreply.github.com">
   <img src="https://img.shields.io/badge/Email-Contact-EF4444?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
 </a>
