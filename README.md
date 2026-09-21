@@ -15,7 +15,7 @@ Siddharth S S
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=siddharth-ss&label=PROFILE%20VIEWS&color=EF4444&style=for-the-badge" alt="Profile Views">
+
 
 </div>
 
