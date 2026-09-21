@@ -101,25 +101,6 @@ Highlights
   <img src="https://img.shields.io/badge/Filmora-111111?style=for-the-badge&logo=wondershare&logoColor=EF4444" alt="Filmora">
 </p>
 
-📊 GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-readme-stats-fast.vercel.app/api?username=siddharth-ss&show_icons=true&bg_color=0a0a0a&title_color=EF4444&text_color=f3f4f6&icon_color=EF4444&border_color=EF4444&border_radius=10" width="48%" alt="GitHub Stats">
-
-<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=siddharth-ss&layout=compact&bg_color=0a0a0a&title_color=EF4444&text_color=f3f4f6&border_color=EF4444&border_radius=10" width="38%" alt="Top Languages">
-
-<br><br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=siddharth-ss&theme=dark&hide_border=false&background=0a0a0a&ring=EF4444&fire=EF4444&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=EF4444&sideLabels=EF4444&dates=999999&border=EF4444" width="70%" alt="GitHub Streak">
-
-</div>
-
-🐍 Contribution Journey
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/siddharth-ss/siddharth-ss/output/github-contribution-grid-snake-dark.svg" width="100%" alt="GitHub Contribution Snake">
 
 </div>
 
