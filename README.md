@@ -58,7 +58,6 @@ Highlights
 
 🐍 Built with Python
 
-✅ Automated test suite
 
 🔄 GitHub Actions CI
 
