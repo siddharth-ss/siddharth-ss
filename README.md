@@ -3,7 +3,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="./light.svg">
-  <img src="./dark.svg" alt="Siddharth S S — Python Developer and Web Developer profile" width="100%">
+  <img src="./dark.svg" alt="Siddharth S S — Python Developer and Web Developer" width="100%">
 </picture>
 
 </div>
@@ -38,7 +38,7 @@ I enjoy taking ideas from **concept → implementation → testing → deploymen
 
 <div align="center">
 
-### [github-profile-toolkit](https://github.com/siddharth-ss/github-profile-toolkit)
+### <a href="https://github.com/siddharth-ss/github-profile-toolkit">github-profile-toolkit</a>
 
 A Python developer toolkit for creating, validating, and maintaining professional GitHub profiles and profile README files.
 
@@ -96,8 +96,38 @@ A Python developer toolkit for creating, validating, and maintaining professiona
 
 ---
 
+## 📊 GitHub Activity
+
+<div align="center">
+
+<img src="https://gh-readme-profile.vercel.app/api?username=siddharth-ss&hide=forks,prs_merged,issues,contributed" alt="Siddharth S S GitHub statistics" width="680">
+
+### Contribution Activity
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/siddharth-ss/github-snake/output/github-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/siddharth-ss/github-snake/output/github-snake.svg"
+  />
+  <img
+    src="https://raw.githubusercontent.com/siddharth-ss/github-snake/output/github-snake.svg"
+    alt="GitHub Contribution Snake"
+    width="100%"
+  />
+</picture>
+
+</div>
+
+---
+
 <div align="center">
 
 **Build it. Test it. Improve it. Ship it.**
+
+<sub>Designed and maintained by <b>Siddharth S S</b></sub>
 
 </div>
