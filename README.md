@@ -1,8 +1,5 @@
 <div align="center">
-
-Siddharth S S
-
-
+<br>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./dark.svg">
