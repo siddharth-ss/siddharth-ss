@@ -1,5 +1,11 @@
 <div align="center">
 
+Siddharth S S
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=1000&color=EF4444&center=true&vCenter=true&width=720&height=45&lines=Hi+there!+I'm+Siddharth+S+S+%F0%9F%91%8B;Python+Developer+%7C+Web+Developer;Building+useful+software+and+developer+tools;Learning%2C+building%2C+and+shipping+with+purpose+%E2%9A%A1" alt="Typing SVG" />
+
+<br>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="./light.svg">
