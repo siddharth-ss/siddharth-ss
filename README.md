@@ -66,6 +66,14 @@ A Python developer toolkit for creating, validating, and maintaining professiona
 
 ---
 
+### More Projects
+
+- **[github-stats-engine](https://github.com/siddharth-ss/github-stats-engine)** — A self-hostable Node.js service for generating GitHub statistics cards, including a streak card, with SVG caching.
+- **[python-basics-lab](https://github.com/siddharth-ss/python-basics-lab)** — An interactive Python learning project with command-line and Tkinter interfaces covering 12 core lessons.
+- **[Snake-Game](https://github.com/siddharth-ss/Snake-Game)** — A Python implementation of the classic Snake game with keyboard controls, food collection, and score tracking.
+
+---
+
 ## 🧰 Tech Stack & Skills
 
 ### 💻 Programming & Web
